@@ -34,5 +34,6 @@ To monitor website performance, identify high-traffic channels, and analyze user
 The dashboard enables businesses to optimize marketing strategies, focus on high-performing traffic channels, and improve overall website engagement and conversion potential.
 
 ** Screenshot** 
+
 Dashboard Preview- (https://github.com/Nii-sha/Airbnb-Dashboard/blob/main/Snapshot%20of%20Dashboard%201.png)
-Dashboard Preview 2- ()
+Dashboard Preview 2- (https://github.com/Nii-sha/Airbnb-Dashboard/blob/main/Snapshot%20of%20Dashboard%202.png)
